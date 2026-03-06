@@ -42,18 +42,7 @@ Resized Image Ready! ✅
 | Resize Dimensions | 300 x 300 px |
 | Trigger | Automatic on S3 upload |
 
----
 
-## 📸 Screenshots
-
-### 1. S3 Input Bucket — Image Uploaded
-![Input Bucket](screenshots/input-bucket.png)
-
-### 2. S3 Output Bucket — Resized Image Saved
-![Output Bucket](screenshots/output-bucket.png)
-
-### 3. CloudWatch Logs — Lambda Execution
-![CloudWatch Logs](screenshots/cloudwatch-logs.png)
 
 ---
 
